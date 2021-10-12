@@ -2,17 +2,17 @@
 <p><strong>נוהל אבטחת מידע בפיתוח מערכות, ארכיטקטורה, יישומים ושירותים</strong></p>
 <p style="text-align: center;">מקור ע"י - Mr T - קבוצת D.S.O</p>
 <h1 style="text-align: center;">תוכן עניינים</h1>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>כללי..</strong><strong>3</strong></a></p>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><<strong>מטרות</strong><strong>3</strong></a></p>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>הגדרות</strong><strong>3</strong></a></p>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>גוף הנוהל</strong><strong>3</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>כללי</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><<strong>מטרות</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>הגדרות</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>גוף הנוהל</strong></a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener">אבטחת מידע בסביבות פיתוח ובדיקות</a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener">ארכיטקטורה מאובטחת</a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener">שילוב אבטחת מידע בפיתוח</a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener">אימוץ קוד פתוח</a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener">שימוש בקבלן חיצוני לפיתוח יישומים</a></p>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>בקרה</strong><strong>7</strong></a></p>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>מסמכים מתייחסים</strong><strong>7</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>בקרה</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>מסמכים מתייחסים</strong></a></p>
 <ol>
 <li>
 <h1 style="text-align: center;">כללי</h1>
