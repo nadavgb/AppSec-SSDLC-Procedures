@@ -1,3 +1,4 @@
+<div dir='rtl' align='right'>
 <p><strong>נוהל אבטחת מידע בפיתוח מערכות, ארכיטקטורה, יישומים ושירותים</strong></p>
 <p style="text-align: center;">מקור ע"י - Mr T - קבוצת D.S.O</p>
 <p style="text-align: center;">גרסה: 2.0</p>
@@ -227,3 +228,5 @@
 <li style="text-align: center;">נוהל תגובה לאירועי אבטחת מידע.</li>
 <li style="text-align: center;">נוהל התאמה לדרישות החוק.</li>
 </ol>
+  
+ </div>
