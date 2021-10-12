@@ -1,21 +1,18 @@
 <div dir='rtl' align='right'>
 <p><strong>נוהל אבטחת מידע בפיתוח מערכות, ארכיטקטורה, יישומים ושירותים</strong></p>
 <p style="text-align: center;">מקור ע"י - Mr T - קבוצת D.S.O</p>
-<p style="text-align: center;">גרסה: 2.0</p>
-<p style="text-align: center;">סעיף בתקן: א.14.2.1</p>
 <h1 style="text-align: center;">תוכן עניינים</h1>
-<p style="text-align: center;"><strong>ת</strong></p>
-<p style="text-align: center;"><a href="https://docs.google.com/document/d/1eugaVZyWMqi74kMWQwl2hN4cYBIaAqLr/edit#heading=h.30j0zll" target="_blank" rel="noopener"><strong>1.</strong><strong>כללי..</strong><strong>3</strong></a></p>
-<p style="text-align: center;"><a href="https://docs.google.com/document/d/1eugaVZyWMqi74kMWQwl2hN4cYBIaAqLr/edit#heading=h.1fob9te" target="_blank" rel="noopener"><strong>2.</strong><strong>מטרות</strong><strong>3</strong></a></p>
-<p style="text-align: center;"><a href="https://docs.google.com/document/d/1eugaVZyWMqi74kMWQwl2hN4cYBIaAqLr/edit#heading=h.3znysh7" target="_blank" rel="noopener"><strong>3.</strong><strong>הגדרות</strong><strong>3</strong></a></p>
-<p style="text-align: center;"><a href="https://docs.google.com/document/d/1eugaVZyWMqi74kMWQwl2hN4cYBIaAqLr/edit#heading=h.2et92p0" target="_blank" rel="noopener"><strong>4.</strong><strong>גוף הנוהל</strong><strong>3</strong></a></p>
-<p style="text-align: center;"><a href="https://docs.google.com/document/d/1eugaVZyWMqi74kMWQwl2hN4cYBIaAqLr/edit#heading=h.tyjcwt" target="_blank" rel="noopener">4.1.אבטחת מידע בסביבות פיתוח ובדיקות3</a></p>
-<p style="text-align: center;"><a href="https://docs.google.com/document/d/1eugaVZyWMqi74kMWQwl2hN4cYBIaAqLr/edit#heading=h.3dy6vkm" target="_blank" rel="noopener">4.2.ארכיטקטורה מאובטחת4</a></p>
-<p style="text-align: center;"><a href="https://docs.google.com/document/d/1eugaVZyWMqi74kMWQwl2hN4cYBIaAqLr/edit#heading=h.1t3h5sf" target="_blank" rel="noopener">4.3.שילוב אבטחת מידע בפיתוח5</a></p>
-<p style="text-align: center;"><a href="https://docs.google.com/document/d/1eugaVZyWMqi74kMWQwl2hN4cYBIaAqLr/edit#heading=h.4d34og8" target="_blank" rel="noopener">4.4.אימוץ קוד פתוח6</a></p>
-<p style="text-align: center;"><a href="https://docs.google.com/document/d/1eugaVZyWMqi74kMWQwl2hN4cYBIaAqLr/edit#heading=h.2s8eyo1" target="_blank" rel="noopener">4.5.שימוש בקבלן חיצוני לפיתוח יישומים6</a></p>
-<p style="text-align: center;"><a href="https://docs.google.com/document/d/1eugaVZyWMqi74kMWQwl2hN4cYBIaAqLr/edit#heading=h.3rdcrjn" target="_blank" rel="noopener"><strong>5.</strong><strong>בקרה</strong><strong>7</strong></a></p>
-<p style="text-align: center;"><a href="https://docs.google.com/document/d/1eugaVZyWMqi74kMWQwl2hN4cYBIaAqLr/edit#heading=h.26in1rg" target="_blank" rel="noopener"><strong>6.</strong><strong>מסמכים מתייחסים</strong><strong>7</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>כללי..</strong><strong>3</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><<strong>מטרות</strong><strong>3</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>הגדרות</strong><strong>3</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>גוף הנוהל</strong><strong>3</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener">אבטחת מידע בסביבות פיתוח ובדיקות</a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener">ארכיטקטורה מאובטחת</a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener">שילוב אבטחת מידע בפיתוח</a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener">אימוץ קוד פתוח</a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener">שימוש בקבלן חיצוני לפיתוח יישומים</a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>בקרה</strong><strong>7</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>מסמכים מתייחסים</strong><strong>7</strong></a></p>
 <ol>
 <li>
 <h1 style="text-align: center;">כללי</h1>
