@@ -6,11 +6,11 @@
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>מטרות</strong></a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>הגדרות</strong></a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>גוף הנוהל</strong></a></p>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener">אבטחת מידע בסביבות פיתוח ובדיקות</a></p>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener">ארכיטקטורה מאובטחת</a></p>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener">שילוב אבטחת מידע בפיתוח</a></p>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener">אימוץ קוד פתוח</a></p>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener">שימוש בקבלן חיצוני לפיתוח יישומים</a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>אבטחת מידע בסביבות פיתוח ובדיקות</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>ארכיטקטורה מאובטחת</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>שילוב אבטחת מידע בפיתוח</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>אימוץ קוד פתוח</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>שימוש בקבלן חיצוני לפיתוח יישומים</strong></a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>בקרה</strong></a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>מסמכים מתייחסים</strong></a></p>
 <ol>
