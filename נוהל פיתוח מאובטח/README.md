@@ -3,7 +3,7 @@
 <p style="text-align: center;">מקור ע"י - Mr T - קבוצת D.S.O</p>
 <h1 style="text-align: center;">תוכן עניינים</h1>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>כללי</strong></a></p>
-<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><<strong>מטרות</strong></a></p>
+<p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>מטרות</strong></a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>הגדרות</strong></a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener"><strong>גוף הנוהל</strong></a></p>
 <p style="text-align: center;"><a href="" target="_blank" rel="noopener">אבטחת מידע בסביבות פיתוח ובדיקות</a></p>
